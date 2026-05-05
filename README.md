@@ -55,3 +55,6 @@ vsftpd 2.3.4 backdoor
 
 ## ⚠️ Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
+
+
+!{image alt} https://github.com/charleskwesley/cybersecurity-lab-metasploitable/blob/17e02089633c1e60adc25edd849260401926b340/Screenshot%202026-05-04%20232207.png
