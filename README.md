@@ -64,3 +64,5 @@ This project was conducted in a controlled lab environment for educational purpo
 ![image alt] https://github.com/charleskwesley/cybersecurity-lab-metasploitable/blob/81bc4469187cc92503aa50243af2eabec5afeb4b/Screenshot%202026-05-04%20232440.png
 
 ![image alt] https://github.com/charleskwesley/cybersecurity-lab-metasploitable/blob/3db47aefe7138c1951a377d577303dbc93cd4b78/Screenshot%202026-05-04%20232555.png
+
+![image alt] https://github.com/charleskwesley/cybersecurity-lab-metasploitable/blob/98f06b46a7f4ed91bbbe4a7726b07d54209c2fbd/Screenshot%202026-05-04%20232749.png
