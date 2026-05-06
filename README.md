@@ -73,10 +73,7 @@ This project was conducted in a controlled lab environment for educational purpo
 
 ## 🔍 Enumeration Phase (Nmap)
 
-Performed network scanning to identify open ports and services on the target machine.
 
-### Commands Used
-```bash
 
 
 
