@@ -82,9 +82,10 @@ nmap -sV 192.168.80.130
 nmap -A 192.168.80.130
 
 
-https://github.com/charleskwesley/cybersecurity-lab-metasploitable/blob/cf3da4ce7cb1ea06702bec0edb3ae1790d1164b4/Screenshot%202026-05-05%20232937.png
+![image alt] https://github.com/charleskwesley/cybersecurity-lab-metasploitable/blob/cf3da4ce7cb1ea06702bec0edb3ae1790d1164b4/Screenshot%202026-05-05%20232937.png
 
-https://github.com/charleskwesley/cybersecurity-lab-metasploitable/blob/f15fb187eb859d5bb7479a551ba7d3d1c4f9a05e/Screenshot%202026-05-05%20233600.png
+
+![image alt] https://github.com/charleskwesley/cybersecurity-lab-metasploitable/blob/f15fb187eb859d5bb7479a551ba7d3d1c4f9a05e/Screenshot%202026-05-05%20233600.png
 
 
 
